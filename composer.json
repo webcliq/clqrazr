@@ -1,5 +1,5 @@
 {
-    "name": "pagekit/razr",
+    "name": "cliqon/clqrazr",
     "description": "Razr - The powerful PHP template engine",
     "keywords": ["templating", "pagekit"],
     "homepage": "http://pagekit.com",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.3"
+        "php": ">=8.1"
     },
     "autoload": {
         "psr-4": {
